@@ -1,0 +1,5 @@
+conda create -p venv python==3.11
+
+conda activate venv/
+
+
